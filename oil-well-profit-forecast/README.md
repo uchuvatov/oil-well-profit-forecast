@@ -9,4 +9,4 @@
 
 ## Используемые библиотеки
 
-*pandas, sklearn*
+*matplotlib, import, pandas, seaborn, sklearn*
